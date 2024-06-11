@@ -1,0 +1,28 @@
+        <!-- <div id="data">
+            <h2 style="display: block;">Welcome to<br>
+                ELECTRONICS AND COMPUTER ENGINEERING</h2>
+            <p style="text-align: left;">From its modest beginnings with an intake of 40 students in the under-graduate
+                program of B.Tech. Electronics and Computer Engineering (ECM) in 1999, it is one of the
+                multi-disciplinary branch with focusing on electronics and computer science technologies areas with
+                committed faculty members. The Electronics and Computer Engineering (ECM) department is dedicated in
+                imparting quality education through well-designed and periodically upgraded curriculum in tune with the
+                challenging industry needs.</p>
+                <button>Discover more</button>
+
+        </div> -->
+        <!-- <div style="width: 100%;">
+            <div style="width: 50%; height: auto; float: left;"> 
+               
+                <h2 style="text-align: center;">Welcome to<br>
+                    ELECTRONICS AND COMPUTER ENGINEERING</h2>
+                <p style="text-align: center;">From its modest beginnings with an intake of 40 students in the under-graduate
+                    program of B.Tech. Electronics and Computer Engineering (ECM) in 1999, it is one of the
+                    multi-disciplinary branch with focusing on electronics and computer science technologies areas with
+                    committed faculty members. The Electronics and Computer Engineering (ECM) department is dedicated in
+                    imparting quality education through well-designed and periodically upgraded curriculum in tune with the
+                    challenging industry needs.</p>
+            </div>
+            <div style="margin-left: 50%; height: 100px;"> 
+                <img src="./homeimage.png" height="300px" width="auto">
+            </div>
+        </div> -->

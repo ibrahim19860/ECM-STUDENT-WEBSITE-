@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/css" href="styleamma.css"?>
+<students>
+<student>
+<name>j</name>
+<rollno>1</rollno>
+<email>gmail</email>
+</student>
+<student>
+<name>j</name>
+<rollno>2</rollno>
+<email>outlook</email>
+</student>
+<student>
+<name>j</name>
+<rollno>3</rollno>
+<email>tutanota</email>
+</student>
+</students>
